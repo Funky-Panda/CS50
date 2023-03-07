@@ -15,7 +15,7 @@ int main(void)
         }
         else
         {
-            printf("%i\n",check);
+            printf("INVALID\n");
         }
 
     }   
